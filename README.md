@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🌟+Morning+Star+Tech+🌟;Bringer+of+Light;Full-Stack+Developer;Guiding+Code+from+Darkness+to+Dawn" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=48&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🌟+Morning+Star+Tech+🌟;Bringer+of+Light;Full-Stack+Developer;Guiding+Code+from+Darkness+to+Dawn" alt="Typing SVG">
 </h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
@@ -96,7 +96,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:morningstartech317@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/morningstartech317"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/morningstar317"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://morningstartech317.github.io" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="The Morning Star" />
+  <a href="https://telegram.me/morningstar_tech" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="The Morning Star" /></a>   
+  <a href="mailto:MorningStar?&subject=The Morning Star Help&body=james.henrydev317@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="The Morning Star" /></a>   
 </p>
