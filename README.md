@@ -1,66 +1,63 @@
-<!-- Profile README for MorningStarTech317 -->
-
-<!-- Starry Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="./starry-banner.gif" width="100%" alt="Starry Night Banner" />
+  <img src="https://i.ibb.co/3R2L5mj/starry-banner.gif" alt="Morning Star Banner" width="100%" />
 </p>
 
-<!-- Name with Typing Effect -->
+<h1 align="center">🌟 MorningStarTech317 🌟</h1>
+<h3 align="center">Bringer of Light | Full-Stack Developer | Tech Innovator</h3>
+
+---
+
+### 🪐 About Me
+🚀 **Full-Stack Developer** with a passion for building scalable, high-performance solutions that shine in the darkest corners of code.  
+🌌 Crafting innovative projects across **web, backend, AI**, and **cloud infrastructure**.  
+💡 Motto: *"Illuminate complexity with clarity and precision."*
+
+---
+
+### 🛠️ Tech Skills
+
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### **Frameworks & Tools**
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🌟+Morning+Star+Tech+🌟;Bringer+of+Light;Full-Stack+Developer;Guiding+Code+from+Darkness+to+Dawn" alt="Typing SVG">
+  <img src="https://github-readme-stats.vercel.app/api?username=MorningStarTech317&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorningStarTech317&theme=tokyonight" alt="GitHub Streak" height="160px"/>
 </p>
 
 ---
 
-## ​ About Me
-💡 **MorningStarTech317** — Innovating with precision, merging creativity and engineering.  
-🚀 Full-stack developer driven by **web tech, AI, cloud, and automation**.  
-🌌 Turning complexity into elegant, scalable solutions.
-
----
-
-## ​ Expanded Skill Set
-**Languages:** JavaScript • TypeScript • Python • Java • PHP • C# • C++ • SQL • HTML5 • CSS3 • SASS  
-**Frameworks & Libraries:** React • Next.js • Node.js • Express • Angular • Vue.js • Django • Flask • Spring Boot • ASP.NET Core  
-**Databases:** MySQL • PostgreSQL • MongoDB • SQLite • Redis • Firebase  
-**DevOps & Tools:** Git • GitHub Actions • Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Figma  
-**Cloud Platforms:** AWS (EC2, S3, Lambda) • GCP • Azure  
-**Specialties:** API Development • AI & ML (OpenAI, TensorFlow, scikit-learn) • Web Security • Performance Optimization  
-
----
-
-## ​ GitHub Stats
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorningStarTech317&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MorningStarTech317&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## ​ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorningStarTech317&bg_color=0d1117&color=FFD700&line=F7E06B&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## ​ Featured Quote
-> *"Bringer of light, compiler of code — guiding ideas from darkness into dawn."*
-
----
-
-##  Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/-Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://morningstartech317.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<p align="center">
-✨ *From the morning star, with light and logic.* ✨
-</p>
