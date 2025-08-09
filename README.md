@@ -1,10 +1,12 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" alt="Banner">
+  <img src="./starry-banner.gif" width="100%" alt="Banner">
 </p>
 
 <!-- Title -->
-<h1 align="center">🌟 MorningStarTech317 🌟</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🌟+Morning+Star+Tech+🌟;Bringer+of+Light;Full-Stack+Developer;Guiding+Code+from+Darkness+to+Dawn" alt="Typing SVG">
+</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <!-- Badges -->
