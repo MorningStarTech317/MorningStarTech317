@@ -1,11 +1,11 @@
-<!-- Profile README for MorningStarTech317 with Professional Cosmic Theme -->
+<!-- Profile README for MorningStarTech317 -->
 
 <!-- Starry Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7oI9XQz.gif" width="100%" alt="Starry Night Banner" />
+  <img src="https://media.giphy.com/media/2wP2iQpQJ7j2XhZpFb/giphy.gif" width="100%" alt="Starry Night Banner" />
 </p>
 
-<!-- Name with Shooting Star Effect -->
+<!-- Name with Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=🌟+Morning+Star+Tech+🌟;Bringer+of+Light;Full-Stack+Developer;Guiding+Code+from+Darkness+to+Dawn" alt="Typing SVG">
 </p>
@@ -20,10 +20,23 @@
 ---
 
 ## 🛠 Tech Arsenal
-**Languages:** JavaScript • Python • Java • PHP  
-**Frameworks:** React • Node.js • Django • Spring Boot  
-**Tools:** Git • Docker • VS Code • Postman  
-**Databases:** MySQL • MongoDB • PostgreSQL  
+**Languages:**  
+JavaScript • TypeScript • Python • Java • PHP • C# • C++ • SQL • HTML5 • CSS3 • SASS  
+
+**Frameworks & Libraries:**  
+React • Node.js • Express • Next.js • Angular • Vue.js • Django • Flask • Spring Boot • ASP.NET Core  
+
+**Databases:**  
+MySQL • PostgreSQL • MongoDB • SQLite • Redis • Firebase  
+
+**DevOps & Tools:**  
+Git • GitHub Actions • Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Figma  
+
+**Cloud Platforms:**  
+AWS (EC2, S3, Lambda) • Google Cloud Platform • Azure  
+
+**Specialties:**  
+API Development • AI & Machine Learning (OpenAI, TensorFlow, scikit-learn) • Web Security • Performance Optimization  
 
 ---
 
@@ -31,6 +44,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorningStarTech317&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MorningStarTech317&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌌 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorningStarTech317&bg_color=0d1117&color=FFD700&line=F7E06B&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
