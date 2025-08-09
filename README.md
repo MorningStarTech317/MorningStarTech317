@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./starry-banner.gif" width="100%" alt="Banner">
+  <img src="./starry-banner.gif" width="100%" height="200" alt="Banner">
 </p>
 
 <!-- Title -->
