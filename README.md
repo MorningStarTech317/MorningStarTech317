@@ -2,7 +2,7 @@
 
 <!-- Starry Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2wP2iQpQJ7j2XhZpFb/giphy.gif" width="100%" alt="Starry Night Banner" />
+  <img src="./starry-banner.gif" width="100%" alt="Starry Night Banner" />
 </p>
 
 <!-- Name with Typing Effect -->
@@ -12,35 +12,24 @@
 
 ---
 
-## 👋 About Me
-💡 **MorningStarTech317** — Innovating with purpose, blending creativity and engineering precision.  
-🚀 Full-stack developer passionate about **web technologies, AI, and automation**.  
-🌌 Transforming complexity into elegant, scalable solutions.  
+## ​ About Me
+💡 **MorningStarTech317** — Innovating with precision, merging creativity and engineering.  
+🚀 Full-stack developer driven by **web tech, AI, cloud, and automation**.  
+🌌 Turning complexity into elegant, scalable solutions.
 
 ---
 
-## 🛠 Tech Arsenal
-**Languages:**  
-JavaScript • TypeScript • Python • Java • PHP • C# • C++ • SQL • HTML5 • CSS3 • SASS  
-
-**Frameworks & Libraries:**  
-React • Node.js • Express • Next.js • Angular • Vue.js • Django • Flask • Spring Boot • ASP.NET Core  
-
-**Databases:**  
-MySQL • PostgreSQL • MongoDB • SQLite • Redis • Firebase  
-
-**DevOps & Tools:**  
-Git • GitHub Actions • Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Figma  
-
-**Cloud Platforms:**  
-AWS (EC2, S3, Lambda) • Google Cloud Platform • Azure  
-
-**Specialties:**  
-API Development • AI & Machine Learning (OpenAI, TensorFlow, scikit-learn) • Web Security • Performance Optimization  
+## ​ Expanded Skill Set
+**Languages:** JavaScript • TypeScript • Python • Java • PHP • C# • C++ • SQL • HTML5 • CSS3 • SASS  
+**Frameworks & Libraries:** React • Next.js • Node.js • Express • Angular • Vue.js • Django • Flask • Spring Boot • ASP.NET Core  
+**Databases:** MySQL • PostgreSQL • MongoDB • SQLite • Redis • Firebase  
+**DevOps & Tools:** Git • GitHub Actions • Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Figma  
+**Cloud Platforms:** AWS (EC2, S3, Lambda) • GCP • Azure  
+**Specialties:** API Development • AI & ML (OpenAI, TensorFlow, scikit-learn) • Web Security • Performance Optimization  
 
 ---
 
-## 📊 GitHub Stats
+## ​ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorningStarTech317&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MorningStarTech317&theme=tokyonight&hide_border=true" height="165" />
@@ -48,19 +37,19 @@ API Development • AI & Machine Learning (OpenAI, TensorFlow, scikit-learn) •
 
 ---
 
-## 🌌 GitHub Activity Graph
+## ​ Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorningStarTech317&bg_color=0d1117&color=FFD700&line=F7E06B&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🌟 Featured Quote
+## ​ Featured Quote
 > *"Bringer of light, compiler of code — guiding ideas from darkness into dawn."*
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
