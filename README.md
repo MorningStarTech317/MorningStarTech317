@@ -1,11 +1,3 @@
-<!-- Profile README for MorningStarTech317 with Starry Banner -->
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/VpWQp3V.gif" width="100%" alt="Starry Night Banner" />
-</p>
-
-<!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=F7E06B&center=true&vCenter=true&width=700&lines=Bringer+of+Light;Full-Stack+Developer;Turning+Ideas+into+Reality;Guiding+Code+from+Darkness+to+Dawn" alt="Typing SVG">
 </p>
